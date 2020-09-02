@@ -91,5 +91,26 @@ export const TableContainer = styled.section`
     td:last-child {
       border-radius: 0 8px 8px 0;
     }
-  }
+  };
+
 `;
+
+export const navigation = styled.div`
+  position: absolute;
+  width: 76px;
+  height: 24px;
+  left: 1101px;
+  top: 35px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 24px;
+  /* identical to box height */
+
+
+  /* Shape principal */
+
+  color: #FFFFFF;
+`
