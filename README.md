@@ -24,7 +24,8 @@
 
 ## 💻 Projeto 
 
-Aplicação para criar, listar e checar transações
+Aplicação de gestão de transações, nomeada de GoFinances. Permitindo enviar arquivos para registrar transações.
+
 
 ## 🚀 Tecnologias
 
